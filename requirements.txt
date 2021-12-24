@@ -1,0 +1,7 @@
+jupyterlab
+numpy
+scipy
+matplotlib==2.2.3
+networkx==2.2
+pathpy2
+joblib
