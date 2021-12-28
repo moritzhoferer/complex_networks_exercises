@@ -1,4 +1,4 @@
-# Complex Networks course
+# [Complex networks (363-0588-00L)](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2019S&ansicht=ALLE&lerneinheitId=127096&lang=en)
 
 These are non-graded coding exercises for the Complex Networks lecture by Prof. Frank Schweitzer at ETH Zurich.
 I attended the lecture during the spring semester 2019.
